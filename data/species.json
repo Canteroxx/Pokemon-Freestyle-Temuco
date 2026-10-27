@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "note": "Ejemplo de formato; reemplaza o amplía estos datos con contenido propio.",
+  "species": [
+    {
+      "id": "sproutling",
+      "name": "Sproutling",
+      "types": [
+        "nature"
+      ],
+      "base_stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special_attack": 65,
+        "special_defense": 65,
+        "speed": 45
+      },
+      "learnset": [
+        {
+          "level": 1,
+          "move_id": "tackle"
+        }
+      ]
+    }
+  ]
+}

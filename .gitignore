@@ -1,0 +1,26 @@
+# Godot generado
+.godot/
+.import/
+.export/
+
+# Builds
+build/
+dist/
+exports/
+
+# Editores / sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python opcional
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Logs
+*.log
